@@ -18,7 +18,7 @@
 
 ## Como rodar
 1. Clone o repositório:
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+   git clone https://github.com/russiHT/Gerador-relatorio-pdf.git
 
 2. Certifique-se de ter o Python 3 instalado e instale as dependências:
    pip install pandas fpdf
@@ -50,7 +50,7 @@
 
 ## How to run
 1. Clone the repository:
-   git clone https://github.com/YOUR_USER/YOUR_REPOSITORY.git
+   git clone https://github.com/russiHT/Gerador-relatorio-pdf.git
 
 2. Make sure you have Python 3 installed, then install the dependencies:
    pip install pandas fpdf
