@@ -18,19 +18,23 @@
 
 ## Como rodar
 1. Clone o repositório:
+   ```bash
    git clone https://github.com/russiHT/Gerador-relatorio-pdf.git
-
+   ```
+   
 2. Certifique-se de ter o Python 3 instalado e instale as dependências:
+   ```bash
    pip install pandas fpdf
-
+   ```
+   
 3. Coloque o seu arquivo de dados na raiz do projeto com o nome `DadosTeste.csv` (ou altere no código fonte).
 
 4. Execute a aplicação via terminal:
+   ```bash
    python main.py
-
+   ```
+   
 5. O arquivo `Relatorio_DadosTeste.pdf` será gerado automaticamente na mesma pasta.
-
----
 
 # English Version
 
@@ -50,19 +54,24 @@
 
 ## How to run
 1. Clone the repository:
+   ```bash
    git clone https://github.com/russiHT/Gerador-relatorio-pdf.git
-
+   ```
 2. Make sure you have Python 3 installed, then install the dependencies:
+   ```bash
    pip install pandas fpdf
-
+   ```
+   
 3. Place your data file in the root directory named `DadosTeste.csv` (or modify the source code).
 
 4. Run the application via terminal:
+   ```bash
    python main.py
-
+   ```
+   
 5. The file `Relatorio_DadosTeste.pdf` will be automatically generated in the same folder.
 
 ## Autor / Author
-[Seu Nome Aqui]
+Gustavo Iensue Russi
 
-[Seu Título/Profissão Aqui, ex: Estudante de Engenharia / Engineering Student]
+Estudante de Engenharia de Computação na UEPG | Computer Engineering Student at UEPG
