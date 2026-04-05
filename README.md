@@ -27,11 +27,11 @@
    pip install pandas fpdf
    ```
    
-3. Coloque o seu arquivo de dados na raiz do projeto com o nome `DadosTeste.csv` (ou altere no código fonte).
+3. Coloque o arquivo de dados na raiz do projeto com o nome `DadosTeste.csv`.
 
 4. Execute a aplicação via terminal:
    ```bash
-   python main.py
+   python GeradorRel.py
    ```
    
 5. O arquivo `Relatorio_DadosTeste.pdf` será gerado automaticamente na mesma pasta.
@@ -62,11 +62,11 @@
    pip install pandas fpdf
    ```
    
-3. Place your data file in the root directory named `DadosTeste.csv` (or modify the source code).
+3. Place the data file in the root directory.
 
 4. Run the application via terminal:
    ```bash
-   python main.py
+   python GeradorRel.py
    ```
    
 5. The file `Relatorio_DadosTeste.pdf` will be automatically generated in the same folder.
